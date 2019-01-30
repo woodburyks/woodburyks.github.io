@@ -1,0 +1,29 @@
+.header {
+	&__heading {
+		text-align: center;
+	}
+
+	&__imgs {
+		text-align: center;
+	}
+
+
+	&__img {
+		height: 28rem;
+		background-image: url("../img/woodbury-duplex.png");
+		background-size: cover;
+	}
+
+	&__logo {
+		display: inline;
+	}
+}
+
+.swiper-container {
+    height: 100%;
+    width: 100%;
+}
+
+.swipper-slide {
+	// max-height: 400px;
+}
